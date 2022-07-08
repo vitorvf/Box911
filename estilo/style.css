@@ -871,7 +871,11 @@ fieldset[disabled] .btn-theme {
 
   #services {
     height: 720px !important;
-    margin-top: 69px !important;
+    margin-top: 120px !important;
+  }
+
+  .homeheight {
+    height: 792px !important;
   }
 
   .servicesimg {
