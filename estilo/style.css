@@ -1792,6 +1792,10 @@ fieldset[disabled] .btn-theme {
   margin-top: 30px;
 }
 
+.navbar {
+  border-radius: 0px !important;
+}
+
 .fa-check-circle:before {
   color: #14feaa;
   content: "\f058";
