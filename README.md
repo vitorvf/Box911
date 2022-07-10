@@ -5,11 +5,12 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-Rastreamento de encomendas através de uma API.
+Projeto feito para a Empresa Box 911 Import Auto Service
 
 ## ℹ️ Sobre o projeto 
-Projeto que consiste em consumir a [Melhor Rastreio API](https://api.melhorrastreio.com.br/api/) e retornar o rastreamento da sua encomenda.
-Bastas digitar o código de rastreio, e se valido, é retornada todas as informações da sua encomenda.  
+O Projeto consiste em uma Landing Page com informações sobre a empresa, os serviços prestados, contatos e um redirecionamento para a pagina de estoque localizada em outro site. 
+
+
 
 
 ## ✨ Demonstração
