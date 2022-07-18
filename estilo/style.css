@@ -352,7 +352,7 @@ fieldset[disabled] .btn-theme {
   }
 
   .tmimg {
-    width: 218%;
+    width: 214% !important;
   }
 }
 
