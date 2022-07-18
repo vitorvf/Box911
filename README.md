@@ -16,8 +16,9 @@ O Projeto consiste em uma Landing Page com informações sobre a empresa, os ser
 ## ✨ Demonstração
 ![Screenshot_20210302_142426](https://i.imgur.com/lgW6gxn.png)
 
-
+## SEO
 O projeto foi extensivamente otimizado para buscar o máximo de resultados orgânicos pelo Google utilizando técnicas de SEO
+
 ![Screenshot_20210302_142426](https://i.imgur.com/odgtqNc.png)
 
 
