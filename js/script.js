@@ -95,22 +95,3 @@ function smoothScrollTo(endX, endY, duration) {
     window.scroll(newX, newY)
   }, 1000 / 60) // 60 fps
 }
-
-window.addEventListener("resize", (e) => {
-  if (window.innerWidth < 575.98) {
-    menu.style.display = "none"
-  } else {
-    menu.style.display = "flex"
-  }
-})
-
-menuXfechar.addEventListener("click", (e) => {
-  menu.style.display = "none"
-  menuXfechar.style.display = "none"
-})
-
-// menu.addEventListener('click', (e) => {
-//   if (menu.style.display === 'flex') {
-//     console.log('ddkodk');
-//   }
-// });
