@@ -96,32 +96,6 @@ function smoothScrollTo(endX, endY, duration) {
   }, 1000 / 60) // 60 fps
 }
 
-// ---------------------------------------------------------- Hamburger Menu
-
-const menuHamburguer = document.querySelector(".hamburguer--menu")
-const menu = document.getElementById("menu")
-const menuItems2 = document.querySelectorAll("#menu a")
-const menuXfechar = document.querySelector(".xfechar")
-
-menuHamburguer.addEventListener("click", (e) => {
-  menu.style.display = "flex"
-  menuXfechar.style.display = "flex"
-
-  menuItems2.forEach((item) => {
-    item.addEventListener("click", (e) => {
-      menu.style.display = "none"
-      menuXfechar.style.display = "none"
-
-      console.log(item)
-    })
-  })
-  // if ($('#hbmenu').hasClass('ativo')) {
-  //   $('#hbmenu').addClass('desativado'); //coloca a classe "ativo" no id=menu
-  // } else {
-  //   console.log('Lambe meu ovo');
-  // }
-})
-
 window.addEventListener("resize", (e) => {
   if (window.innerWidth < 575.98) {
     menu.style.display = "none"

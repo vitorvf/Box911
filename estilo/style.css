@@ -350,6 +350,10 @@ fieldset[disabled] .btn-theme {
   .promo-block .promo-block-title {
     font-size: 50px;
   }
+
+  .tmimg {
+    width: 218%;
+  }
 }
 
 .promo-block .promo-block-text {
