@@ -353,6 +353,9 @@ fieldset[disabled] .btn-theme {
 
   .tmimg {
     width: 214% !important;
+    top: -142px !important;
+    margin-left: -13px !important;
+
   }
 }
 
@@ -883,7 +886,9 @@ fieldset[disabled] .btn-theme {
   }
 
   .servicesimg {
-    margin-top: 8px;
+    margin-top: 14px;
+    width: 358px !important;
+    height: 225px !important;
   }
 
   .header .nav-item-hover:after {
