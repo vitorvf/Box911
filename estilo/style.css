@@ -43,6 +43,10 @@ a {
   outline: 0;
 }
 
+.horario{
+  font-size: 12px;
+}
+
 a:focus,
 a:hover,
 a:active {
@@ -75,6 +79,11 @@ span {
   font-family: Galano Grotesque;
   color: #bfc1c7;
 }
+
+.footer-icon{
+  font-size: 30px;
+}
+
 
 h1,
 h2,
@@ -352,7 +361,7 @@ fieldset[disabled] .btn-theme {
   }
 
   .tmimg {
-    width: 214% !important;
+    width: 242% !important;
     top: -142px !important;
     margin-left: -13px !important;
 
@@ -568,7 +577,7 @@ fieldset[disabled] .btn-theme {
         [Footer]
   ------------------------------------------------------------------*/
 .footer .footer-logo {
-  width: 100px;
+  width: 125px;
   height: auto;
 }
 
@@ -710,7 +719,7 @@ fieldset[disabled] .btn-theme {
 .header .logo-img {
   display: inline-block;
   height: auto;
-  max-width: 100%;
+  max-width: 109%;
   max-height: 100%;
   vertical-align: middle;
 }
