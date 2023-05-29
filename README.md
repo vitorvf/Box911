@@ -24,12 +24,7 @@ O projeto foi extensivamente otimizado para buscar o máximo de resultados orgâ
 
 
 
-Resultado Final: www.box911.com.br/
-
-
-
-
-
+Resultado Final: https://rastreiofacil.netlify.app/
 
 
 ## 📝 Tecnologias 
@@ -42,6 +37,6 @@ Para a realização desse projeto foi utilizado as seguintes tecnologias/linguag
 
 
 ## Licença
-Copyright © 2022 Vitor Ferreira.
+Copyright © 2023 Vitor Ferreira.
 
 
