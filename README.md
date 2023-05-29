@@ -4,6 +4,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%2d79c7)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React-Hook-Form-%232C8EBB.svg?style=for-the-badge&logo=ReactHookForm&logoColor=white)
+
 
 Rastreamento de encomendas através de uma API.
 
